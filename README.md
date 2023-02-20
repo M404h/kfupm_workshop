@@ -1,16 +1,22 @@
 # kfupm_workshop
 
-A new Flutter project.
+Simple UI for kfupm workshop, conducted on 16th Feb 2023
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![ui](https://user-images.githubusercontent.com/67692329/220170325-ab208ad9-6379-4a11-a453-da903688e11d.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Used Widgets 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+after installing Flutter framework, you can build it using the following widgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+- [Card](https://api.flutter.dev/flutter/material/Card-class.html)
+- [Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
+- [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
+- [Icon](https://api.flutter.dev/flutter/material/Icons-class.html)
+- [Text](https://docs.flutter.dev/development/ui/widgets/text)
+- [padding](https://api.flutter.dev/flutter/widgets/Padding-class.html)
+- [SizedBox](https://api.flutter.dev/flutter/widgets/SizedBox-class.html)
+
+
+good luck :)
